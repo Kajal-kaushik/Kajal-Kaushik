@@ -4,7 +4,7 @@ Hey, I'm Kajal Kaushik
 <img src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" width="500">
 
 🚀 Web Developer | UI/UX Designer  
-
+ 
 💡 I build modern web apps using HTML, CSS, JavaScript, React, Tailwind  
 🎨 Design clean interfaces with Figma & Canva  
 🧠 Work with Python, MATLAB, C, and AI model training & fine-tuning  
