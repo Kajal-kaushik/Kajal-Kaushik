@@ -2,7 +2,7 @@
 
 Hey, I'm Kajal Kaushik  
 <p align="center">
-  <img src="D:\githubcodes\Kajal-Kaushik\Kajol.svg" width="100%" />
+  <img src="Kajol.svg" width="100%" />
 </p>
 
 🚀 Web Developer | UI/UX Designer  
