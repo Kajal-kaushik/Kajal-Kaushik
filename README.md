@@ -11,22 +11,29 @@ Hey, I'm Kajal Kaushik
 🎨 Design clean interfaces with Figma & Canva  
 🧠 Work with Python, MATLAB, C, and AI model training & fine-tuning 
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" style="width:100%; max-width:1200px;" />
-</p>
-
 ## 🌐 Socials:
-<div align="left">
-<img src="https://user-images.githubusercontent.com/74038190/216654136-2b97900b-59ee-45c5-87bb-0c359e31dd2f.gif" width="160" /><br><br>
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white">
+
+<p align="center">
+
+<a href="https://www.instagram.com/ayush20_ig/">
+<img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="70">
 </a>
 
-<a href="mailto:yourmail@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white">
+<a href="https://www.linkedin.com/in/ayush-kumar-695632334/">
+<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="70">
 </a>
-</div>
+
+<a href="https://x.com/ayush_personal">
+<img src="https://user-images.githubusercontent.com/74038190/235294009-98ca7572-795f-4056-b2c1-ccbde3f2982e.gif" width="70">
+</a>
+
+<a href="mailto:ayushpersonal20@gmail.com">
+<img src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" width="70">
+</a>
+
+</p>   
+
 
 
 <p align="center">
