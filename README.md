@@ -5,7 +5,7 @@ Hey, I'm Kajal Kaushik
   <img src="Kajol.svg" width="100%" />
 </p>
 
-🚀 Web Developer | UI/UX Designer  
+<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> Web Developer | UI/UX Designer  <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
  
 💡 I build modern web apps using HTML, CSS, JavaScript, React, Tailwind  
 🎨 Design clean interfaces with Figma & Canva  
