@@ -24,9 +24,6 @@ Hey, I'm Kajal Kaushik
 <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="70">
 </a>
 
-<a href="https://x.com/ayush_personal">
-<img src="https://user-images.githubusercontent.com/74038190/235294009-98ca7572-795f-4056-b2c1-ccbde3f2982e.gif" width="70">
-</a>
 
 <a href="mailto:ayushpersonal20@gmail.com">
 <img src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" width="70">
