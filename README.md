@@ -11,7 +11,20 @@ Hey, I'm Kajal Kaushik
 🎨 Design clean interfaces with Figma & Canva  
 🧠 Work with Python, MATLAB, C, and AI model training & fine-tuning 
 
-## 🌐 Socials:
+## 🕹️ Pac-Man Contribution Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" 
+    srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/pacman-contribution-graph-dark.svg">
+    
+  <source media="(prefers-color-scheme: light)" 
+    srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/pacman-contribution-graph.svg">
+    
+  <img alt="pacman graph" 
+    src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/pacman-contribution-graph.svg">
+</picture>
+ 
+## 🌐 Socials: 
 
 
 <p align="center">
