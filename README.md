@@ -13,22 +13,12 @@ Hey, I'm Kajal Kaushik
 
 ## 🕹️ Pac-Man Contribution Graph
 
-<picture>
-  <source 
-    media="(prefers-color-scheme: dark)" 
-    srcset="https://raw.githubusercontent.com/Kajal-kaushik/Kajal-kaushik/output/pacman-contribution-graph-dark.svg"
-  >
-  
-  <source 
-    media="(prefers-color-scheme: light)" 
-    srcset="https://raw.githubusercontent.com/Kajal-kaushik/Kajal-kaushik/output/pacman-contribution-graph.svg"
-  >
-  
-  <img 
-    src="https://raw.githubusercontent.com/Kajal-kaushik/Kajal-kaushik/output/pacman-contribution-graph-dark.svg"
-    alt="pacman graph"
-  >
-</picture>
+<img 
+  src="https://raw.githubusercontent.com/Kajal-kaushik/Kajal-kaushik/output/pacman-contribution-graph.svg#gh-light-mode-only" 
+/>
+<img 
+  src="https://raw.githubusercontent.com/Kajal-kaushik/Kajal-kaushik/output/pacman-contribution-graph-dark.svg#gh-dark-mode-only" 
+/>
  
 ## 🌐 Socials: 
 
