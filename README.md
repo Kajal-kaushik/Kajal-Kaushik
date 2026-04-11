@@ -14,14 +14,20 @@ Hey, I'm Kajal Kaushik
 ## 🕹️ Pac-Man Contribution Graph
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" 
-    srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/pacman-contribution-graph-dark.svg">
-    
-  <source media="(prefers-color-scheme: light)" 
-    srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/pacman-contribution-graph.svg">
-    
-  <img alt="pacman graph" 
-    src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/pacman-contribution-graph.svg">
+  <source 
+    media="(prefers-color-scheme: dark)" 
+    srcset="https://raw.githubusercontent.com/Kajal-kaushik/Kajal-kaushik/output/pacman-contribution-graph-dark.svg"
+  >
+  
+  <source 
+    media="(prefers-color-scheme: light)" 
+    srcset="https://raw.githubusercontent.com/Kajal-kaushik/Kajal-kaushik/output/pacman-contribution-graph.svg"
+  >
+  
+  <img 
+    src="https://raw.githubusercontent.com/Kajal-kaushik/Kajal-kaushik/output/pacman-contribution-graph-dark.svg"
+    alt="pacman graph"
+  >
 </picture>
  
 ## 🌐 Socials: 
