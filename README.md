@@ -22,25 +22,9 @@
 />
  
 ## 🌐 Socials: 
-
-
-<p align="center">
-
-<a href="https://www.instagram.com/kajalkaushikk__/">
-<img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="70">
-</a>
-
-<a href="https://www.linkedin.com/in/kajal-kaushik-/">
-<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="70">
-</a>
-
-
-<a href="mailto:kajalkaushik6644@gmail.com.com">
-<img src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" width="70">
-</a>
-
-</p>   
-
+<div align="center">
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/F4mAhhq27) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kajalkaushikk__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Kajal-kaushik) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@kajal_kaushik77) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kajalkaushik6644@gmail.com)
+</div>
 
 
 <p align="center">
@@ -48,7 +32,6 @@
 </p>
 
 # 💻 Tech Stack
-<h2 align="center">💻 Tech Stack</h2>
 
 <p align="center" style="line-height: 3.2;">
 
@@ -89,8 +72,9 @@
 
 
 ## 📊 GitHub Stats
+<div align="center">
 ![](https://streak-stats.demolab.com/?user=Kajal-kaushik&theme=ayu-mirage&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Kajal-kaushik&theme=ayu-mirage&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+</div>
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 <br><br>
