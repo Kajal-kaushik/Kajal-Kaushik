@@ -1,5 +1,5 @@
 # Hey, I'm Kajal Kaushik  
-  <img align="right" src="https://i.pinimg.com/736x/8f/25/a4/8f25a4d42d7731e43f5f5d22286dcd9e.jpg" width="45%" />
+  <img align="right" src="https://i.pinimg.com/736x/8f/25/a4/8f25a4d42d7731e43f5f5d22286dcd9e.jpg" width="48%" />
 
  MERN Stack Developer | UI/UX Designer 
  
