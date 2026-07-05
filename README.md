@@ -48,17 +48,38 @@
 </p>
 
 # 💻 Tech Stack
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/de038172-e903-4951-926c-755878deb0b4" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="100">
-</div>
+<h2 align="center">💻 Tech Stack</h2>
+
+<p align="center" style="line-height: 3.2;">
+
+  <!-- Languages -->
+  <img src="https://skillicons.dev/icons?i=c" height="52" style="margin:10px; filter: drop-shadow(0 0 7px #4da3ff);" />
+  <img src="https://skillicons.dev/icons?i=html" height="52" style="margin:10px; filter: drop-shadow(0 0 7px #ff7849);" />
+  <img src="https://skillicons.dev/icons?i=python" height="52" style="margin:10px; filter: drop-shadow(0 0 7px #ffd43b);" />
+  <img src="https://skillicons.dev/icons?i=typescript" height="52" style="margin:10px; filter: drop-shadow(0 0 7px #3178c6);" />
+  <img src="https://skillicons.dev/icons?i=rust" height="52" style="margin:10px; filter: drop-shadow(0 0 7px #ff6f00);" />
+
+  <br/>
+
+  <!-- Frontend -->
+  <img src="https://skillicons.dev/icons?i=angular" height="52" style="margin:10px; filter: drop-shadow(0 0 7px #dd0031);" />
+  <img src="https://skillicons.dev/icons?i=react" height="52" style="margin:10px; filter: drop-shadow(0 0 7px #61dafb);" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="52" style="margin:10px; filter: drop-shadow(0 0 7px #38bdf8);" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="52" style="margin:10px; filter: drop-shadow(0 0 7px #3c873a);" />
+  <img src="https://skillicons.dev/icons?i=express" height="52" style="margin:10px; filter: drop-shadow(0 0 7px #ffffff);" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="52" style="margin:10px; filter: drop-shadow(0 0 7px #47a248);" />
+  <img src="https://skillicons.dev/icons?i=figma" height="52" style="margin:10px; filter: drop-shadow(0 0 7px #f24e1e);" />
+   <br/>
+  <img src="https://cdn.simpleicons.org/proto.io/00e5ff" height="52" style="margin:10px; filter: drop-shadow(0 0 7px #00e5ff);" />
+  <img src="https://skillicons.dev/icons?i=git" height="52" style="margin:10px; filter: drop-shadow(0 0 7px #f05032);" />
+  <img src="https://skillicons.dev/icons?i=github" height="52" style="margin:10px; filter: drop-shadow(0 0 7px #ffffff);" />
+  <img src="https://skillicons.dev/icons?i=vercel" height="52" style="margin:10px; filter: drop-shadow(0 0 7px #ffffff);" />
+   <br/>
+  <img src="https://skillicons.dev/icons?i=arduino" height="52" style="margin:10px; filter: drop-shadow(0 0 7px #00979d);" />
+  <img src="https://skillicons.dev/icons?i=notion" height="52" style="margin:10px; filter: drop-shadow(0 0 7px #ffffff);" />
+  <img src="https://skillicons.dev/icons?i=powershell" height="52" style="margin:10px; filter: drop-shadow(0 0 7px #5391fe);" />
+
+</p>
 
 <br>
 
@@ -68,14 +89,8 @@
 
 
 ## 📊 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Kajal-kaushik&show_icons=true&theme=radical&hide_border=true"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kajal-kaushik&layout=compact&theme=radical&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kajal-kaushik&theme=radical&hide_border=true"/>
-</p>
+![](https://streak-stats.demolab.com/?user=Kajal-kaushik&theme=ayu-mirage&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Kajal-kaushik&theme=ayu-mirage&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 <br><br>
