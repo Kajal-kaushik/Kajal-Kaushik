@@ -5,7 +5,7 @@ Hey, I'm Kajal Kaushik
   <img src="Kajol.svg" width="100%" />
 </p>
 
- Web Developer | UI/UX Designer 
+ MERN Stack Developer | UI/UX Designer 
  
 💡 I build modern web apps using HTML, CSS, JavaScript, React, Tailwind  
 🎨 Design clean interfaces with Figma & Canva  
