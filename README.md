@@ -1,15 +1,16 @@
-# 💫 About Me:
-
 # Hey, I'm Kajal Kaushik  
-<p align="center">
-  <img src="https://i.pinimg.com/736x/8f/25/a4/8f25a4d42d7731e43f5f5d22286dcd9e.jpg" width="60%" />
-</p>
+  <img align="right" src="https://i.pinimg.com/736x/8f/25/a4/8f25a4d42d7731e43f5f5d22286dcd9e.jpg" width="50%" />
 
  MERN Stack Developer | UI/UX Designer 
  
 💡 I build modern web apps using HTML, CSS, JavaScript, React, Tailwind  
 🎨 Design clean interfaces with Figma & Canva  
-🧠 Work with Python, MATLAB, C, and AI model training & fine-tuning 
+🧠 Work with Python, MATLAB, C, and AI model training & fine-tuning
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
+</div>
 
 ## 🕹️ Pac-Man Contribution Graph
 
