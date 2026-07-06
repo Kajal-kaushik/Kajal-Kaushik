@@ -12,15 +12,17 @@
   <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
 </div>
 
+> [!WARNING]
+> Man cannot obtain anything without first sacrificing something. In order to
+> obtain anything, something of equal value is required. That is
+> _Alchemy's Law of Equivalent Exchange_. At the time we believed that to be
+> the true way of the world.
+>
+> ― ***Alphonse Elric***
 
-## 🕹️ Pac-Man Contribution Graph
+---
 
-<img 
-  src="https://raw.githubusercontent.com/Kajal-kaushik/Kajal-kaushik/output/pacman-contribution-graph.svg#gh-light-mode-only" 
-/>
-<img 
-  src="https://raw.githubusercontent.com/Kajal-kaushik/Kajal-kaushik/output/pacman-contribution-graph-dark.svg#gh-dark-mode-only" 
-/>
+<p align=center><img src="https://wakatime.com/share/@Avinal/a70f5eaa-2098-4e5b-b557-240cf1e78033.svg" /></p>
  
 ## 🌐 Socials: 
 <div align="center">
